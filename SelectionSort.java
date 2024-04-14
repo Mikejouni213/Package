@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 package Package;
 
@@ -26,3 +27,5 @@ public int[] basicSelectionSort(int[] x) {
     return x;} // end of basicSelectionSort method
 
 }
+
+
